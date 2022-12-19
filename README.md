@@ -12,12 +12,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png)
+![](./assets/images/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ahmedZ0k/3-column-preview-card-component
+- Live Site URL: https://ahmedz0k.github.io/3-column-preview-card-component/
 
 
 ### Built with
