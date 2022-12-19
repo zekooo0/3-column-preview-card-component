@@ -46,26 +46,26 @@ main {
   position: relative;
   height: 450px;
 }
-main > div:first-of-type {
+main .sedan {
   background-color: var(--Bright-orange);
   border-radius: 5px 0 0 5px;
   /* border-top-left-radius: 5px;
   border-bottom-left-radius: 5px; */
 }
 @media (width <= 787px) {
-  main > div:first-of-type {
+  main .sedan {
     border-radius: 2% 2% 0 0;
   }
 }
-main > div:nth-last-of-type(2) {
+main .suv {
   background-color: var(--Dark-cyan);
 }
-main > div:last-of-type {
+main .luxury {
   background-color: var(--Very-dark-cyan);
   border-radius: 0 2% 2% 0;
 }
 @media (width <= 787px) {
-  main > div:last-of-type {
+  main .luxury {
     border-radius: 0 0 2% 2%;
   }
 }
