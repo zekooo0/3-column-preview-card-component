@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png)
+![](./assets/images/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png)
 
 ### Links
 
